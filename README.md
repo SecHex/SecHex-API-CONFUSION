@@ -2,7 +2,7 @@
 Confuse your haters!
 
 # What it does? 🏆
-It decrypt the encrypted AES-Key with the encrypted Base64-Key that is also encrypted in a another file. 
+It decrypt the encrypted AES-Key with the encrypted Base64-Key.
 
 # Example ✨   
 ```name: SecHex.私は熟女が大好きです("2TUWNWhIugdj+aDdJQ2Aww==", 我們也討厭那些想要分析我們代碼的愚蠢的狗娘養的她的陰戶.我們喜歡狩獵毛茸茸的動物)```                                      
