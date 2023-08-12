@@ -5,8 +5,8 @@ Confuse your haters!
 It decrypt the encrypted AES-Key with the encrypted Base64-Key that is also encrypted in a another file. 
 
 # Example ✨   
-```name: SecHex.私は熟女が大好きです("2TUWNWhIugdj+aDdJQ2Aww==", 我們也討厭那些想要分析我們代碼的愚蠢的狗娘養的她的陰戶.我們喜歡狩獵毛茸茸的動物)```
-2TUWNWhIugdj+aDdJQ2Aww== -> Decrypt with Base64 eTJWM2RHbDFaV3hnUTJ4eQ== = y2V3dGl1ZWxgQ2xy -> 2TUWNWhIugdj+aDdJQ2Aww== + y2V3dGl1ZWxgQ2xy = U2VjSGV4 = SecHex
+```name: SecHex.私は熟女が大好きです("2TUWNWhIugdj+aDdJQ2Aww==", 我們也討厭那些想要分析我們代碼的愚蠢的狗娘養的她的陰戶.我們喜歡狩獵毛茸茸的動物)```                                      
+2TUWNWhIugdj+aDdJQ2Aww== -> Decrypt with Base64 eTJWM2RHbDFaV3hnUTJ4eQ== = y2V3dGl1ZWxgQ2xy -> 2TUWNWhIugdj+aDdJQ2Aww== + y2V3dGl1ZWxgQ2xy = U2VjSGV4 = SecHex                                      
 
 
 # How to Secure?
