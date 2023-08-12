@@ -1,5 +1,5 @@
 # SecHex-API-CONFUSION
-Encrypt, Decrypt, Encrypt, Decrypt
+Confuse your haters!
 
 # What it does? 🏆
 It decrypt the encrypted AES-Key with the encrypted Base64-Key that is also encrypted in a another file. 
