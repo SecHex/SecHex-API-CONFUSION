@@ -19,8 +19,6 @@ namespace SCHXCONFUSION
 
         );
 
-
-
         public Form1()
         {
             InitializeComponent();
@@ -30,9 +28,5 @@ namespace SCHXCONFUSION
         {
  
         }
-
-
-
-
     }
 }
