@@ -8,7 +8,7 @@ namespace SCHXCONFUSION
 {
         public static class УменятакойгорячийстоякДигга
         {
-            public static string Мытакжененавидимтупыхсукиныдетикоторыехотятанализироватьнашкодеепизды = JetztNCurrywurstDigga("WTJWMjNHbDFaNHhnUTJ4eQ==");
+            public static string Мытаh6кженеh6нытаh6кавидимтупыхсукиытаh6кныдетикоторыехотятаналh6изироваытаh6кh6тьнаh6шкоытаh6кдh6ееh6пизды = JetztNCurrywurstDigga("WTJWMjNHbDFaNHhnUTJ4eQ==");
 
             public static string JetztNCurrywurstDigga(string base64EncryptedText)
             {
