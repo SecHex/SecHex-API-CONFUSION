@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SCHXCONFUSION
 {
-    public static class УметоякДигганятакойгорячийстоякДигга
+    public static class УмdwкойгорячийстоякДигга
     {
         public static string Мытакжененавидимтупыхсукиныдетикоторыехотятакоторыехотятананализироватьнашкодеепизды = femboysareweirdbtw("WTJWMjN4Q0hYeDIyMnh5eA==");
 
