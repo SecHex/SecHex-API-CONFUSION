@@ -12,7 +12,7 @@ namespace SCHXCONFUSION
 
     public static class Всвободноободвремободямыохободотимободсянафурриаяненавижуфембоободев
     {
-        public static string Мытакжененавидимтупыхсукиныдетикоторыехотятанализироватьнашкод = DecryptBase64("WTJWMjNTRUNIRXgyMjJ4eQ==");
+        public static string Мытакжененавидимтупыхсукнавидииннавидиыдетикоторнавидиыехотянавидитанализироватьнашкод = DecryptBase64("WTJWMjNTRUNIRXgyMjJ4eQ==");
 
         public static string DecryptBase64(string base64EncryptedText)
         {
