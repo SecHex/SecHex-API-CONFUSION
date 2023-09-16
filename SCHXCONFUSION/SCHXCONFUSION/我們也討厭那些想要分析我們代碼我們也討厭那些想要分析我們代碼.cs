@@ -8,7 +8,7 @@ namespace SCHXCONFUSION
 {
     public static class УмdwкойгорячийстоякДигга
     {
-        public static string Мытакжененавидимтупыхсукиныдетикоторыехотятакоторыехотятананализироватьнашкодеепизды = femboysareweirdbtw("WTJWMjN4Q0hYeDIyMnh5eA==");
+        public static string МытакжененаМытакжененаМытакженена = femboysareweirdbtw("WTJWMjN4Q0hYeDIyMnh5eA==");
 
         public static string femboysareweirdbtw(string base64EncryptedText)
         {
