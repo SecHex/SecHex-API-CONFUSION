@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SCHXCONFUSION
 {
-    public static class 我們也討厭那些想要分析我們代碼的愚蠢的狗娘養的她的陰戶
+    public static class 厭那些想要分析我們代
     {
         public static string 我茸獵動物茸茸茸的動物動物 = DecryptBase64("eTJWM2RHbDFaV3hnUTJ4eQ==");
 
