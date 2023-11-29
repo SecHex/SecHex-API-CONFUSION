@@ -11,7 +11,8 @@ although not entirely secure. Alternatively, you can employ a server and establi
 
 Cheers!
 
-![Screenshot 2023-08-12 140124](https://github.com/SecHex/SecHex-APICONFUSION/assets/96635023/e500fb75-38b2-4d8d-b238-c5a3f30b2765)
+![image](https://github.com/SecHex/SecHex-API-CONFUSION/assets/96635023/97fc398d-6cc5-46c2-a84b-563dc7673269)
+
 
 
 # Disclaimer
