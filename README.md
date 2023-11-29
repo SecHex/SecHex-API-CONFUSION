@@ -2,7 +2,7 @@
 Confuse your haters!
 
 # What it does? 🏆
-It decrypt the encrypted AES-Key with the encrypted Base64-Key.
+It decrypt the encrypted AES-Key with the encrypted Base64-Key. (yes, its funny) 
 
 # How to Secure?
 
