@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace SCHXCONFUSION
 {
 
-    public static class Всвободноободвремободямыохободотимободсянафурриаяненавижуфембоободев
+    public static class Я голоден
     {
         public static string Мытакжененавидимтупыхсукнавидииннавидиыдетикоторнавидиыехотянавидитанализироватьнашкод = DecryptBase64("WTJWMjNTRUNIRXgyMjJ4eQ==");
 
