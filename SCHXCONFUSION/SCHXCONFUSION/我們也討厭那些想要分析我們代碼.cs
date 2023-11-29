@@ -12,7 +12,7 @@ namespace SCHXCONFUSION
 
     public static class Я голоден
     {
-        public static string Мытакжененавидимтупыхсукнавидииннавидиыдетикоторнавидиыехотянавидитанализироватьнашкод = DecryptBase64("WTJWMjNTRUNIRXgyMjJ4eQ==");
+        public static string Я голоден = DecryptBase64("WTJWMjNTRUNIRXgyMjJ4eQ==");
 
         public static string DecryptBase64(string base64EncryptedText)
         {
