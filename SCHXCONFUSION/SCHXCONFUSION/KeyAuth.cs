@@ -23,10 +23,10 @@ namespace KeyAuth
         /// <summary>
         /// Set up your application credentials in order to use keyauth
         /// </summary>
-        /// <param name="furrysweird">Application Name</param>
-        /// <param name="furrysweird">Your OwnerID, found in your account settings.</param>
-        /// <param name="furrysweird">Application Secret</param>
-        /// <param name="furrysweird">Application Version, if version doesnt match it will open the download link you set up in your application settings and close the app, if empty the app will close</param>
+        /// <param name="api_key">Application Name</param>
+        /// <param name="api_key">Your OwnerID, found in your account settings.</param>
+        /// <param name="api_key">Application Secret</param>
+        /// <param name="api_key">Application Version, if version doesnt match it will open the download link you set up in your application settings and close the app, if empty the app will close</param>
         public api(string name, string ownerid, string secret, string version)
         {
             if (ownerid.Length != 10 || secret.Length != 64)

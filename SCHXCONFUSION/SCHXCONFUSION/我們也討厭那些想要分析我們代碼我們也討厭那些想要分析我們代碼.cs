@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SCHXCONFUSION
 {
-    public static class УмdwкойгорячийстоякДигга
+    public static class пистолетдлягорячегоклея
     {
-        public static string МытакжененаМытакжененаМытакженена = femboysareweirdbtw("WTJWMjN4Q0hYeDIyMnh5eA==");
+        public static string ЧтовыдумаетеоновомфильмеMarvel = femboysareweirdbtw("WTJWMjN4Q0hYeDIyMnh5eA==");
 
         public static string femboysareweirdbtw(string base64EncryptedText)
         {

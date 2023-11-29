@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 namespace SCHXCONFUSION
 {
 
-    public static class Я голоден
+    public static class Рождествосамыйкрасивыйпраздниквгоду
     {
-        public static string Я голоден = DecryptBase64("WTJWMjNTRUNIRXgyMjJ4eQ==");
+        public static string Яголоден = DecryptBase64("WTJWMjNTRUNIRXgyMjJ4eQ==");
 
         public static string DecryptBase64(string base64EncryptedText)
         {
